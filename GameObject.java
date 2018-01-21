@@ -8,6 +8,7 @@ import android.graphics.Point;
  */
 
 public class GameObject {
+    private Point position;
     public void draw(Canvas cavnas){};
     public void update(){};
 }
